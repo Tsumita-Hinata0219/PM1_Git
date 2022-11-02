@@ -6,8 +6,8 @@
 int main()
 {
     std::cout << "Hello GitHub World\n";
-
-    std::cout << "Hello New branch\n";
+    
+    std::cout << "New branch　changed\n";
 
     std::cout << "third branch\n";
 }
