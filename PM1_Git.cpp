@@ -5,9 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello Remote_GitHubWorld \n";
-
-    std::cout << "Hello Remote_ConflictBranch! \n";
+    std::cout << "Hello Marge_GitHubWorld \n";
+    std::cout << "Hello Marge_ConflictBranch! \n";
     
 }
 
