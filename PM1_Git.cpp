@@ -9,8 +9,6 @@ int main()
 
     std::cout << "Hello Remote_ConflictBranch! \n";
     
-    std::cout << "Hello Remote_ConflictBranch! \n";
-    
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
