@@ -5,9 +5,11 @@
 
 int main()
 {
-    std::cout << "Hello Local_GitHubWorld \n";
+    std::cout << "Hello Remote_GitHubWorld \n";
 
-    std::cout << "Hello Local_ConflictBranch! \n";
+    std::cout << "Hello Remote_ConflictBranch! \n";
+    
+    std::cout << "Hello Remote_ConflictBranch! \n";
     
 }
 
